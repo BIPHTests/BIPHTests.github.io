@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Zapfino';
+  src: url('fonts/Zapfino.ttf') format('truetype');
+  }
+
 body {
   background-color: #0010bc5e; /* Dark blue background color */
 }
@@ -13,8 +18,23 @@ body {
   margin: 0 auto;
 }
 
-h1 {
-  color: black;
+.Title {
+  font-family: sans-serif;
+  color: white;
+  font-size: 200%;
+  text-align: center;
+  text-decoration: none;
+  min-width: fit-content;
+  white-space: nowrap;
+  }
+  
+.Subtitle {
+  font-family: 'Zapfino', sans-serif;
+  color: white;
+  margin-top: -0.7em;
+  margin-bottom: -0.5em;
+  font-size: 350%;
+  text-align: center;
 }
 
 input[type="text"] {
@@ -25,6 +45,7 @@ input[type="text"] {
   border-radius: 4px;
   text-align: center;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  margin-top: -10em;
 }
 
 input[type="text"]:focus {
