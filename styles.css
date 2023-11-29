@@ -62,6 +62,7 @@ input[type="text"]:focus {
   color: black;
   margin-top: 20px;
   outline: none;
+  line-height: 0.8;
 }
 
 #resultContainer {
@@ -75,5 +76,6 @@ input[type="text"]:focus {
 #resultText {
   font-size: 20px;
   font-family: Arial, sans-serif; 
+  line-height: 0.5;
   color: #333;
 }
