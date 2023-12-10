@@ -259,17 +259,17 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
 'ANNE31290': `Gentle Winds 
 
-Pitch:  
+Pitch: 4.8 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 4.5 
 
-Dynamics:  
+Dynamics: 4.6 
 
-Sum: 0.0 
+Sum: 18.7 
 
-Performance: 0.0% 
+Performance: 93.5% 
 
    
 
@@ -343,22 +343,6 @@ Performance: 0.0%`,
 
   'STUART91802': `Gentle Winds 
 
-  Pitch:  
-  
-  Tone:  
-  
-  Rhythm:  
-  
-  Dynamics:  
-  
-  Sum: 0.0 
-  
-  Performance: 0.0% 
-  
-     
-  
-  Windsong 
-  
   Pitch: 5.0 
   
   Tone: 5.0 
@@ -370,6 +354,22 @@ Performance: 0.0%`,
   Sum: 20.0 
   
   Performance: 100.0% 
+  
+     
+  
+  Windsong 
+  
+  Pitch: 4.8 
+  
+  Tone: 5.0 
+  
+  Rhythm: 5.0 
+  
+  Dynamics: 5.0 
+  
+  Sum: 19.8 
+  
+  Performance: 99.0% 
   
      
   
@@ -391,33 +391,33 @@ Performance: 0.0%`,
   
   Jupiter 
   
-  Pitch:  
+  Pitch: 4.9 
   
-  Tone:  
+  Tone: 5.0 
   
-  Rhythm:  
+  Rhythm: 5.0 
   
-  Dynamics:  
+  Dynamics: 4.9 
   
-  Sum: 0.0 
+  Sum: 19.8 
   
-  Performance: 0.0% 
+  Performance: 99.0% 
   
      
   
   Instant Xmas 
   
-  Pitch:  
+  Pitch: 4.7 
   
-  Tone:  
+  Tone: 5.0 
   
-  Rhythm:  
+  Rhythm: 4.8 
   
-  Dynamics:  
+  Dynamics: 5.0 
   
-  Sum: 0.0 
+  Sum: 19.5 
   
-  Performance: 0.0%`,
+  Performance: 97.5%`,
 
 
 
@@ -459,49 +459,49 @@ Performance: 0.0%`,
   
   The Tempest 
   
-  Pitch:  
+  Pitch: 4.6 
   
-  Tone:  
+  Tone: 4.7 
   
-  Rhythm:  
+  Rhythm: 4.6 
   
-  Dynamics:  
+  Dynamics: 4.9 
   
-  Sum: 0.0 
+  Sum: 18.8 
   
-  Performance: 0.0% 
+  Performance: 94.0% 
   
      
   
   Jupiter 
   
-  Pitch:  
+  Pitch: 4.3 
   
-  Tone:  
+  Tone: 4.6 
   
-  Rhythm:  
+  Rhythm: 4.6 
   
-  Dynamics:  
+  Dynamics: 4.7 
   
-  Sum: 0.0 
+  Sum: 18.2 
   
-  Performance: 0.0% 
+  Performance: 91.0% 
   
      
   
   Instant Xmas 
   
-  Pitch:  
+  Pitch: 4.0 
   
-  Tone:  
+  Tone: 4.5 
   
-  Rhythm:  
+  Rhythm: 4.5 
   
-  Dynamics:  
+  Dynamics: 4.5 
   
-  Sum: 0.0 
+  Sum: 17.5 
   
-  Performance: 0.0%`,
+  Performance: 87.5%`,
 
 
 
@@ -563,17 +563,17 @@ Performance: 0.0%
 
 Jupiter 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 4.9 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.9 
 
-Performance: 0.0% 
+Performance: 99.5% 
 
    
 
@@ -603,65 +603,65 @@ Performance: 0.0%`,
 
   'LEO99932': `Gentle Winds 
 
-  Pitch:  
-  
-  Tone:  
-  
-  Rhythm:  
-  
-  Dynamics:  
-  
-  Sum: 0.0 
-  
-  Performance: 0.0% 
-  
-     
-  
-  Windsong 
-  
-  Pitch: 4.8 
+  Pitch: 4.7 
   
   Tone: 4.8 
   
   Rhythm: 4.8 
   
+  Dynamics: 4.5 
+  
+  Sum: 18.8 
+  
+  Performance: 94.0% 
+  
+     
+  
+  Windsong 
+  
+  Pitch: 5.0 
+  
+  Tone: 5.0 
+  
+  Rhythm: 5.0 
+  
   Dynamics: 5.0 
   
-  Sum: 19.4 
+  Sum: 20.0 
   
-  Performance: 97.0% 
+  Performance: 100.0% 
   
      
   
   The Tempest 
   
-  Pitch:  
+  Pitch: 4.7 
   
-  Tone:  
+  Tone: 4.8 
   
-  Rhythm:  
+  Rhythm: 4.7 
   
-  Dynamics:  
+  Dynamics: 4.8 
   
-  Sum: 0.0 
+  Sum: 19.0 
   
-  Performance: 0.0% 
+  Performance: 95.0% 
   
      
   
   Jupiter 
   
-  Pitch:  
+  Pitch: 4.8 
   
-  Tone:  
+  Tone: 4.5 
   
-  Rhythm:  
+  Rhythm: 4.7 
   
-  Dynamics:  
+  Dynamics: 4.8 
   
-  Sum: 0.0 
+  Sum: 18.8 
   
-  Performance: 0.0% 
+  Performance: 94.0% 
   
      
   
@@ -708,17 +708,17 @@ Performance: 0.0%
 
 Windsong 
 
-Pitch: 4.8 
+Pitch: 5.0 
 
-Tone: 4.5 
+Tone: 5.0 
 
-Rhythm: 4.5 
+Rhythm: 5.0 
 
-Dynamics: 4.9 
+Dynamics: 5.0 
 
-Sum: 18.7 
+Sum: 20.0 
 
-Performance: 93.5% 
+Performance: 100.0% 
 
    
 
@@ -781,17 +781,17 @@ Performance: 0.0%`,
 
 'JENNIFER84061': `Gentle Winds 
 
-Pitch:  
+Pitch: 4.9 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.9 
 
-Performance: 0.0% 
+Performance: 99.5% 
 
    
 
@@ -819,43 +819,43 @@ Tone: 5.0
 
 Rhythm: 5.0 
 
-Dynamics: 4.5 
+Dynamics: 4.7 
 
-Sum: 19.3 
+Sum: 19.5 
 
-Performance: 96.5% 
+Performance: 97.5% 
 
    
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.8 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 4.7 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.5 
 
-Performance: 0.0% 
+Performance: 97.5% 
 
    
 
 Instant Xmas 
 
-Pitch:  
+Pitch: 4.9 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.9 
 
-Performance: 0.0%`,
+Performance: 99.5%`,
 
 
 
@@ -987,49 +987,49 @@ Performance: 99.0%
 
 The Tempest 
 
-Pitch:  
+Pitch: 4.7 
 
-Tone:  
+Tone: 4.7 
 
-Rhythm:  
+Rhythm: 4.8 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.2 
 
-Performance: 0.0% 
+Performance: 96.0% 
 
    
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.7 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 4.8 
 
-Dynamics:  
+Dynamics: 4.8 
 
-Sum: 0.0 
+Sum: 19.1 
 
-Performance: 0.0% 
+Performance: 95.5% 
 
    
 
 Instant Xmas 
 
-Pitch:  
+Pitch: 4.6 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 4.8 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.2 
 
-Performance: 0.0%`,
+Performance: 96.0%`,
 
 
 
@@ -1130,22 +1130,6 @@ Performance: 0.0%`,
 
 'JACK93062': `Gentle Winds 
 
-Pitch:  
-
-Tone:  
-
-Rhythm:  
-
-Dynamics:  
-
-Sum: 0.0 
-
-Performance: 0.0% 
-
-   
-
-Windsong 
-
 Pitch: 3.5 
 
 Tone: 4.0 
@@ -1160,51 +1144,67 @@ Performance: 77.5%
 
    
 
+Windsong 
+
+Pitch: 4.7 
+
+Tone: 4.0 
+
+Rhythm: 4.7 
+
+Dynamics: 4.6 
+
+Sum: 18.0 
+
+Performance: 90.0% 
+
+   
+
 The Tempest 
 
-Pitch:  
+Pitch: 4.8 
 
-Tone:  
+Tone: 4.5 
 
-Rhythm:  
+Rhythm: 4.8 
 
-Dynamics:  
+Dynamics: 4.5 
 
-Sum: 0.0 
+Sum: 18.6 
 
-Performance: 0.0% 
+Performance: 93.0% 
 
    
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.6 
 
-Tone:  
+Tone: 4.7 
 
-Rhythm:  
+Rhythm: 4.8 
 
-Dynamics:  
+Dynamics: 4.5 
 
-Sum: 0.0 
+Sum: 18.6 
 
-Performance: 0.0% 
+Performance: 93.0% 
 
    
 
 Instant Xmas 
 
-Pitch:  
+Pitch: 2.5 
 
-Tone:  
+Tone: 4.5 
 
-Rhythm:  
+Rhythm: 4.0 
 
-Dynamics:  
+Dynamics: 4.5 
 
-Sum: 0.0 
+Sum: 15.5 
 
-Performance: 0.0%`,
+Performance: 77.5%`,
 
 
 
@@ -1266,17 +1266,17 @@ Performance: 0.0%
 
 Jupiter 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.8 
 
-Performance: 0.0% 
+Performance: 99.0% 
 
    
 
@@ -1286,13 +1286,13 @@ Pitch: 4.8
 
 Tone: 5.0 
 
-Rhythm: 4.6 
+Rhythm: 4.8 
 
 Dynamics: 4.9 
 
-Sum: 19.3 
+Sum: 19.5 
 
-Performance: 96.5%`,
+Performance: 97.5%`,
 
 
 
@@ -1302,17 +1302,17 @@ Performance: 96.5%`,
 
 'TIGER34064': `Gentle Winds 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 4.9 
 
-Dynamics:  
+Dynamics: 4.9 
 
-Sum: 0.0 
+Sum: 19.6 
 
-Performance: 0.0% 
+Performance: 98.0% 
 
    
 
@@ -1334,17 +1334,17 @@ Performance: 98.5%
 
 The Tempest 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 4.8 
 
-Dynamics:  
+Dynamics: 4.9 
 
-Sum: 0.0 
+Sum: 19.7 
 
-Performance: 0.0% 
+Performance: 98.5% 
 
    
 
@@ -1389,22 +1389,6 @@ Performance: 0.0%`,
 
 'MICHAEL37394': `Gentle Winds 
 
-Pitch:  
-
-Tone:  
-
-Rhythm:  
-
-Dynamics:  
-
-Sum: 0.0 
-
-Performance: 0.0% 
-
-   
-
-Windsong 
-
 Pitch: 4.8 
 
 Tone: 4.9 
@@ -1419,19 +1403,35 @@ Performance: 87.5%
 
    
 
+Windsong 
+
+Pitch: 4.7 
+
+Tone: 4.7 
+
+Rhythm: 4.6 
+
+Dynamics: 4.5 
+
+Sum: 18.5 
+
+Performance: 92.5% 
+
+   
+
 The Tempest 
 
-Pitch:  
+Pitch: 3.0 
 
-Tone:  
+Tone: 4.7 
 
-Rhythm:  
+Rhythm: 4.3 
 
-Dynamics:  
+Dynamics: 4.5 
 
-Sum: 0.0 
+Sum: 16.5 
 
-Performance: 0.0% 
+Performance: 82.5% 
 
    
 
@@ -1453,17 +1453,17 @@ Performance: 0.0%
 
 Instant Xmas 
 
-Pitch:  
+Pitch: 4.6 
 
-Tone:  
+Tone: 4.5 
 
-Rhythm:  
+Rhythm: 4.0 
 
-Dynamics:  
+Dynamics: 4.5 
 
-Sum: 0.0 
+Sum: 17.6 
 
-Performance: 0.0%`,
+Performance: 88.0%`,
 
 
 
@@ -1472,6 +1472,22 @@ Performance: 0.0%`,
 
 
 'TERRY39618': `Gentle Winds 
+
+Pitch: 4.7 
+
+Tone: 4.6 
+
+Rhythm: 4.9 
+
+Dynamics: 4.5 
+
+Sum: 18.7 
+
+Performance: 93.5% 
+
+   
+
+Windsong 
 
 Pitch: 4.7 
 
@@ -1487,67 +1503,51 @@ Performance: 95.0%
 
    
 
-Windsong 
-
-Pitch:  
-
-Tone:  
-
-Rhythm:  
-
-Dynamics:  
-
-Sum: 0.0 
-
-Performance: 0.0% 
-
-   
-
 The Tempest 
 
-Pitch:  
+Pitch: 4.8 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 4.5 
 
-Dynamics:  
+Dynamics: 4.6 
 
-Sum: 0.0 
+Sum: 18.7 
 
-Performance: 0.0% 
+Performance: 93.5% 
 
    
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.8 
 
-Tone:  
+Tone: 4.7 
 
-Rhythm:  
+Rhythm: 4.8 
 
-Dynamics:  
+Dynamics: 4.7 
 
-Sum: 0.0 
+Sum: 19.0 
 
-Performance: 0.0% 
+Performance: 95.0% 
 
    
 
 Instant Xmas 
 
-Pitch:  
+Pitch: 4.6 
 
-Tone:  
+Tone: 4.6 
 
-Rhythm:  
+Rhythm: 4.9 
 
-Dynamics:  
+Dynamics: 4.7 
 
-Sum: 0.0 
+Sum: 18.8 
 
-Performance: 0.0%`,
+Performance: 94.0%`,
 
 
 
@@ -1609,17 +1609,17 @@ Performance: 95.0%
 
 Jupiter 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.8 
 
-Performance: 0.0% 
+Performance: 99.0% 
 
    
 
@@ -1699,17 +1699,17 @@ Performance: 89.0%
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.8 
 
-Tone:  
+Tone: 4.6 
 
-Rhythm:  
+Rhythm: 2.0 
 
-Dynamics:  
+Dynamics: 4.0 
 
-Sum: 0.0 
+Sum: 15.4 
 
-Performance: 0.0% 
+Performance: 77.0% 
 
    
 
@@ -1786,17 +1786,17 @@ Performance: 91.5%
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.4 
 
-Tone:  
+Tone: 4.5 
 
-Rhythm:  
+Rhythm: 4.7 
 
-Dynamics:  
+Dynamics: 4.6 
 
-Sum: 0.0 
+Sum: 18.2 
 
-Performance: 0.0% 
+Performance: 91.0% 
 
    
 
@@ -1839,65 +1839,65 @@ Performance: 100.0%
 
 Windsong 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 20.0 
 
-Performance: 0.0% 
+Performance: 100.0% 
 
    
 
 The Tempest 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 4.7 
 
-Sum: 0.0 
+Sum: 19.5 
 
-Performance: 0.0% 
+Performance: 97.5% 
 
    
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.7 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 4.8 
 
-Sum: 0.0 
+Sum: 19.3 
 
-Performance: 0.0% 
+Performance: 96.5% 
 
    
 
 Instant Xmas 
 
-Pitch:  
+Pitch: 4.9 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 4.9 
 
-Dynamics:  
+Dynamics: 4.8 
 
-Sum: 0.0 
+Sum: 19.4 
 
-Performance: 0.0%`,
+Performance: 97.0%`,
 
 
 
@@ -2000,17 +2000,17 @@ Performance: 99.5%`,
 
 'FRANKIE10338': `Gentle Winds 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 5.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 20.0 
 
-Performance: 0.0% 
+Performance: 100.0% 
 
    
 
@@ -2032,49 +2032,49 @@ Performance: 99.5%
 
 The Tempest 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 4.8 
 
-Rhythm:  
+Rhythm: 4.9 
 
-Dynamics:  
+Dynamics: 4.0 
 
-Sum: 0.0 
+Sum: 18.7 
 
-Performance: 0.0% 
+Performance: 93.5% 
 
    
 
 Jupiter 
 
-Pitch:  
+Pitch: 4.5 
 
-Tone:  
+Tone: 4.7 
 
-Rhythm:  
+Rhythm: 4.3 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 18.5 
 
-Performance: 0.0% 
+Performance: 92.5% 
 
    
 
 Instant Xmas 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 4.7 
 
-Dynamics:  
+Dynamics: 4.8 
 
-Sum: 0.0 
+Sum: 19.5 
 
-Performance: 0.0%`,
+Performance: 97.5%`,
 
 
 
@@ -2137,17 +2137,17 @@ Performance: 88.0%
 
 Jupiter 
 
-Pitch:  
+Pitch: 5.0 
 
-Tone:  
+Tone: 5.0 
 
-Rhythm:  
+Rhythm: 4.0 
 
-Dynamics:  
+Dynamics: 5.0 
 
-Sum: 0.0 
+Sum: 19.0 
 
-Performance: 0.0% 
+Performance: 95.0% 
 
    
 
